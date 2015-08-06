@@ -9,13 +9,17 @@ public class Operacionesgrupal {
    int dato1=8;
    int dato2=5,Div;
    
-   //Divicion
+   //Division
    Div =(dato1 / dato2) ;
    System.out.println("La divicion es:  " +Div);
    
    int suma;
    suma = dato1 + dato2;
    System.out.println("resultado de la suma de dato1 y dato2 es ="  + suma );
+   
+   int multi;
+   multi = dato1 * dato2 ;
+   System.out.println("El resultado de la multiplicacion entre en dato 1 y el 2 es:  " + multi)
    
     }
     
