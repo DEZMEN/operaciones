@@ -19,7 +19,7 @@ public class Operacionesgrupal {
    
    int multi;
    multi = dato1 * dato2 ;
-   System.out.println("El resultado de la multiplicacion entre en dato 1 y el 2 es:  " + multi)
+   System.out.println("El resultado de la multiplicacion entre en dato 1 y el 2 es:  " + multi);
    
     }
     
