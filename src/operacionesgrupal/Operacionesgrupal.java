@@ -14,7 +14,7 @@ public class Operacionesgrupal {
    System.out.println("La divicion es:  " +Div);
    
    int resta;
-   resta = dato1 - dato2;
+   resta = (dato1 - dato2);
    System.out.println("resultado de la suma de dato1 y dato2 es ="  + resta );
    
    int multi;
